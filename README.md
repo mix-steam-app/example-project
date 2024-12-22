@@ -1,5 +1,5 @@
 # Mix Documentation
-Mix works by loading the Assemblies and AssetBundles of mods and injecting them into the game.
+Mix works by loading the Assemblies of mods and instantiating a subclass of `Mix.Mod` defined in the mod's assembly. 
 
 ## Pre-requisites
 1. Install Unity 6000.0.23f1 from https://unity.com/releases/editor/archive
