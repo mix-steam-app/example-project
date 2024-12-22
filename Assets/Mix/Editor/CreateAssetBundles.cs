@@ -8,7 +8,7 @@ namespace Mix
 		[MenuItem("Mix/Build AssetBundles")]
 		static void BuildAllAssetBundles()
 		{
-			string assetBundleDirectory = "Library/AssetBundles";
+			string assetBundleDirectory = "Assets/AssetBundles";
 			if (!Directory.Exists(assetBundleDirectory))
 				Directory.CreateDirectory(assetBundleDirectory);
 
