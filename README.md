@@ -9,6 +9,7 @@ Mix works by loading the Assemblies and AssetBundles of mods and injecting them 
 1. Open the project with Unity 6000.0.23f1.
 1. Import the Unity's Third Person Controller Starter Asset.
 1. Create a `Mod.cs` in `Assets/StarterAssets` containing a subclass of `Mix.Mod`, which acts as the entrypoint for this mod.
+	1. In the constructor, access Mix.Main to get the path to your mod's directory. Then load the AssetBundles and load the Playground scene.
 1. Generate AssetBundles and Assemblies for the Third Person Controller Starter Playground.
 	1. Be sure to add Unity Input System to the assembly definition's references.
 1. Open the `items` folder at `LocalLow/Team Mix/Mix/items` via the folder button on the left sidebar in Mix. 
