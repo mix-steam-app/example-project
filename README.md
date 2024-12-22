@@ -14,7 +14,7 @@ Mix works by loading the Assemblies and AssetBundles of mods and injecting them 
 1. Subscribe to and copy one of the sample mods in the Steam Workshop to the `items` folder. Use this as a template for your mod.
 1. Copy the generated AssetBundles and Assemblies to your mod's folder.
 	1. The Playground assembly also needs `Cinemachine.dll`
-1. Configure `info.json` and `mod.json` to match your mod.
+1. Configure `item.json` and `mod.json` to match your mod.
 1. You're done! Mix should detect your mod and you should be able add it to your modpacks.
 
 
