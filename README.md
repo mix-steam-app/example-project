@@ -8,10 +8,17 @@ Mix works by loading the Assemblies and AssetBundles of mods and injecting them 
 1. Clone this example Unity project.
 1. Open the project with Unity 6000.0.23f1.
 1. Import the Unity's Third Person Controller Starter Asset.
+1. Generate AssetBundles and Assemblies for the Third Person Controller Starter Playground.
+	1. Be sure to add Unity Input System to the assembly definition's references.
+1. Open the `items` folder at `LocalLow/Team Mix/Mix/items` via the folder button on the left sidebar in Mix. 
+1. Subscribe to and copy one of the sample mods in the Steam Workshop to the `items` folder. Use this as a template for your mod.
+1. Copy the generated AssetBundles and Assemblies to your mod's folder.
+	1. The Playground assembly also needs `Cinemachine.dll`
+1. Configure `info.json` and `mod.json` to match your mod.
+1. You're done! Mix should detect your mod and you should be able add it to your modpacks.
 
 
-
-## How to export Unity's Third Person Controller Starter Asset to Mix as a mod
+## How to export Unity's Third Person Controller Starter Asset to Mix as a mod (OUTDATED)
 This guide assumes that you have a basic understanding of Unity and Github.
 1. Create the project and import prerequisites.
 	1. Create a new Unity 6000.0.23f1 3D URP project.
