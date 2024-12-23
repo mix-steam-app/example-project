@@ -14,7 +14,8 @@ Mix is a brand-new modding platform designed for creative gamers and developers 
 - **Steam Workshop Integration**: Allows seamless browsing and mixing of mods from the Steam Workshop.
 - **Basic Documentation**: Guides on GitHub to help users get started.
 - **Mod Loader**: A foundational system for loading and managing mods within the game, with future improvements planned, including automated dependency resolution and better compatibility handling.
-  
+- **Suggested Asset Reuse Policy**: Developers can reference assets created by others in their mods, but redistribution is not permitted, providing the protection of intellectual property. This optional policy encourages a thriving ecosystem of content creation by allowing assets to be reused and integrated into new projects, driving collaboration and accelerating development. Asset creators have the flexibility to override this policy for their assets.
+
 Mix currently includes limited examples, such as the Unity Third Person Playground scene, to demonstrate mod interactions. Developers are encouraged to join and innovate as the platform evolves, with new tools and features being added regularly.
 
 
