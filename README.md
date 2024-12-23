@@ -11,7 +11,8 @@ Mix is a brand-new modding platform designed for creative gamers and developers 
 - **Commercial Mod Support**: Create and monetize mods with Mix taking 0% of earnings, though monetization workflows are still being developed.
 - **Steam Workshop Integration**: Allows seamless browsing and mixing of mods from the Steam Workshop.
 - **Basic Documentation**: Guides on GitHub to help users get started.
-
+- **Mod Loader**: A foundational system for loading and managing mods within the game, with future improvements planned, including automated dependency resolution and better compatibility handling.
+  
 Mix currently includes limited examples, such as the Unity Third Person Playground scene, to demonstrate mod interactions. Developers are encouraged to join and innovate as the platform evolves, with new tools and features being added regularly.
 
 ## Mod loading
