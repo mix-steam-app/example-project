@@ -17,6 +17,13 @@ Mix is a brand-new modding platform designed for creative gamers and developers 
   
 Mix currently includes limited examples, such as the Unity Third Person Playground scene, to demonstrate mod interactions. Developers are encouraged to join and innovate as the platform evolves, with new tools and features being added regularly.
 
+
+## Pre-requisites
+1. Install Unity version 6000.0.23f1 from [Unity Editor Archive](https://unity.com/releases/editor/archive).
+
+## ThirdPersonPlayground Example Mod
+Explore the example mod at [ThirdPersonPlayground Repository](https://github.com/mix-steam-app/ThirdPersonPlayground).
+
 ## Typical Mod Development Workflow
 
 1. **Create a New Project**: Modders start a new Unity project based on Mix's template, which includes the necessary assets and scripts.
@@ -28,17 +35,6 @@ Mix currently includes limited examples, such as the Unity Third Person Playgrou
 1. **Export Logic as Assemblies**: The mod's C# scripts are compiled into assemblies, which are then loaded by Mix at runtime.
 1. **Publish Mod**: Modders can publish their mod to the Steam Workshop, where it can be downloaded and installed by players.
 
-## Mod loading
-
-Mix operates by loading the assemblies of mods and instantiating a subclass of `Mix.Mod` defined in each mod's assembly. The process begins in the `Assets/Mix/Scenes/Main` scene. Non-script assets in Unity can be exported using AssetBundles and loaded by mods.
-
-
-## Pre-requisites
-1. Install Unity version 6000.0.23f1 from [Unity Editor Archive](https://unity.com/releases/editor/archive).
-
-## ThirdPersonPlayground Example Mod
-Explore the example mod at [ThirdPersonPlayground Repository](https://github.com/mix-steam-app/ThirdPersonPlayground).
-
 ## Testing Your Modpack in the Unity Editor
 You can test your modpack directly within the Unity Editor:
 
@@ -48,3 +44,6 @@ You can test your modpack directly within the Unity Editor:
    - The configuration is then read when the `Main` scene is launched.
 3. Play the scene in the Unity Editor to load and test your modpack.
 
+## Mod loading
+
+Mix operates by loading the assemblies of mods and instantiating a subclass of `Mix.Mod` defined in each mod's assembly. The process begins in the `Assets/Mix/Scenes/Main` scene. Non-script assets in Unity can be exported using AssetBundles and loaded by mods.
