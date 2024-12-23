@@ -17,7 +17,7 @@ Mix currently includes limited examples, such as the Unity Third Person Playgrou
 
 ## Typical Mod Development Workflow
 
-1. **Create a New Project**: Modders start a new Unity project within Mix to develop their mod.
+1. **Create a New Project**: Modders start a new Unity project based on Mix's template, which includes the necessary assets and scripts.
 1. **Design Game Logic**: Custom C# scripts are written to define the mod's game mechanics—this could involve new abilities, interactions, or gameplay systems.
 1. **Create Assets**: Modders create 3D models, textures, animations, and sound effects within Unity, which can be used in the mod.
 1. **Define Entry Point**: An entry point C# class is set up to initialize the mod, load assets, and manage interactions with the game.
