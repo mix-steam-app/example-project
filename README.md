@@ -1,7 +1,9 @@
+![Mix Logo](docs/logo.png)
+
+# Mix
 _"Imagine the power to mix and match thousands of mods to craft your ultimate gaming experience."_
 
-
-**Mix: A New Modding Platform in Early Access**
+Step into the future of modding and game development. Combine hundreds of yet-to-exist mods to craft your own personalized gaming experiences. Create mods directly in the Unity Editor. Share and download your creations through the Steam Workshop. Monetize your work.
 
 Mix is a brand-new modding platform designed for creative gamers and developers eager to pioneer modding in Unity. While the platform is still in its early stages and lacks existing mods, it offers a unique opportunity to shape the future of modular gaming.
 
