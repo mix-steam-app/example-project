@@ -3,13 +3,13 @@
 # Mix
 _"Imagine the power to mix and match thousands of mods to craft your ultimate gaming experience."_
 
-Step into the future of modding and game development. Combine hundreds of yet-to-exist mods to craft your own personalized gaming experiences. Create mods directly in the Unity Editor. Share and download your creations through the Steam Workshop. Monetize your work.
+Step into the future of game development and modular gaming. Combine hundreds of yet-to-exist mods to craft your own personalized gaming experiences. Create assets directly in the Unity Editor. Share and download your creations through the Steam Workshop. Monetize your work.
 
-Mix is a brand-new modding platform designed for creative gamers and developers eager to pioneer modular gaming in Unity. While the platform is still in its early stages and lacks existing mods, it offers a unique opportunity to shape the future of modular gaming.
+Mix is a brand-new modding platform designed for creative gamers and developers eager to pioneer modular gaming in Unity. While the platform is still in its early stages and lacks existing mods, it offers a unique opportunity to shape the future of this exciting new frontier.
 
 **Modular Gaming**: A customizable approach to gaming where players and developers create, share, monetize, and integrate modular components—like assets and mechanics—to personalize and enhance gameplay, fostering creativity, collaboration, and a community-driven economy.
 
-**Key Highlights:**
+### Key Highlights
 - **Mod Manager**: Supports downloading, publishing, updating mods, and creating modpacks, with plans for expanded features.
 - **Unity Editor Integration**: Modders can build mods entirely in Unity (version 6000.0.23f1).
 - **Commercial Mod Support**: Create and monetize mods with Mix taking 0% of earnings, though monetization workflows are still being developed.
@@ -18,7 +18,13 @@ Mix is a brand-new modding platform designed for creative gamers and developers 
 - **Mod Loader**: A foundational system for loading and managing mods within the game, with future improvements planned, including automated dependency resolution and better compatibility handling.
 - **Suggested Asset Reuse Policy**: Developers are suggested to allow others to reference their assets in mods, but redistribution is not permitted, ensuring the protection of intellectual property. This optional policy supports Mix’s vision of fostering a vast and ever-growing library of content by promoting the free flow of ideas and resources, encouraging collaboration and accelerating development. 
 
-Mix currently includes limited examples, such as the Unity Third Person Playground scene, to demonstrate mod interactions. Developers are encouraged to join and innovate as the platform evolves, with new tools and features being added regularly.
+### Upcoming Features (In-order)
+- **Dependency-based Asset Load Ordering**: A system to manage asset dependencies and ensure they load in the correct order, minimizing conflicts and improving compatibility.
+- **Asset Store**: A marketplace for users to access, share, and combine assets, with an option for creators to sell their assets, enabling a streamlined experience for both creators and players.
+- **Expanded Modding Tools**: Additional features and APIs to simplify asset creation and offer more customization options for modders.
+
+### Join the Community
+Mix is just beginning, and we’re excited for you to be part of this journey. Jump into the early access version today, share your creations, and help us build the future of modular gaming. The community will shape how Mix grows, and your feedback will help make it even better.
 
 
 ## Pre-requisites
