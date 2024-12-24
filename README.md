@@ -5,7 +5,9 @@ _"Imagine the power to mix and match thousands of mods to craft your ultimate ga
 
 Step into the future of modding and game development. Combine hundreds of yet-to-exist mods to craft your own personalized gaming experiences. Create mods directly in the Unity Editor. Share and download your creations through the Steam Workshop. Monetize your work.
 
-Mix is a brand-new modding platform designed for creative gamers and developers eager to pioneer modding in Unity. While the platform is still in its early stages and lacks existing mods, it offers a unique opportunity to shape the future of modular gaming.
+Mix is a brand-new modding platform designed for creative gamers and developers eager to pioneer modular gaming in Unity. While the platform is still in its early stages and lacks existing mods, it offers a unique opportunity to shape the future of modular gaming.
+
+**Modular Gaming**: A customizable approach to gaming where players and developers create, share, monetize, and integrate modular components—like assets and mechanics—to personalize and enhance gameplay, fostering creativity, collaboration, and a community-driven economy.
 
 **Key Highlights:**
 - **Mod Manager**: Supports downloading, publishing, updating mods, and creating modpacks, with plans for expanded features.
