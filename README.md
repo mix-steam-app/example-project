@@ -1,13 +1,12 @@
 ![Mix Logo](docs/logo.png)
 
 # Mix
-_"Imagine the power to mix and match thousands of mods to craft your ultimate gaming experience."_
 
-Step into the future of game development and modular gaming. Combine hundreds of yet-to-exist mods to craft your own personalized gaming experiences. Create assets directly in the Unity Editor. Share and download your creations through the Steam Workshop. Monetize your work.
+Combine game assets into modpacks to play in the Unity Engine. Download and share mods on the Steam Workshop. Create mods in the Unity Editor. Monetize mods with no fees from Mix.
 
-Mix is a brand-new modding platform designed for creative gamers and developers eager to pioneer modular gaming in Unity. While the platform is still in its early stages and lacks existing mods, it offers a unique opportunity to shape the future of this exciting new frontier.
+_"Imagine the power to mix together thousands of mods to craft your ultimate gaming experience."_
 
-**Modular Gaming**: A customizable approach to gaming where players and developers create, share, monetize, and integrate modular components—like assets and mechanics—to personalize and enhance gameplay, fostering creativity, collaboration, and a community-driven economy.
+Mix allows you to combine game assets (mods) into modpacks to play in the Unity Engine, though currently, mods must be entirely self-contained as there's no dependency system yet. Download and share mods on the Steam Workshop. Create your mods in the Unity Editor. You are allowed to monetize your mods with no fees from Mix.
 
 ### Key Highlights
 - **Mod Manager**: Supports downloading, publishing, updating mods, and creating modpacks, with plans for expanded features.
