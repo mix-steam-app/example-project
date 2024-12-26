@@ -1,0 +1,37 @@
+ManifestFileVersion: 0
+UnityVersion: 6000.0.23f1
+CRC: 1253760623
+Hashes:
+  AssetFileHash:
+    serializedVersion: 2
+    Hash: aa6e609b40c525dcd56ff21ae5b4f8a8
+  TypeTreeHash:
+    serializedVersion: 2
+    Hash: a7b1061b54a471186433b2b87fe5c16b
+  IncrementalBuildHash:
+    serializedVersion: 2
+    Hash: 7cbdf886395dc6a4d1ce0631492d1a23
+HashAppended: 0
+ClassTypes:
+- Class: 1
+  Script: {instanceID: 0}
+- Class: 4
+  Script: {instanceID: 0}
+- Class: 21
+  Script: {instanceID: 0}
+- Class: 23
+  Script: {instanceID: 0}
+- Class: 33
+  Script: {instanceID: 0}
+- Class: 43
+  Script: {instanceID: 0}
+- Class: 48
+  Script: {instanceID: 0}
+- Class: 54
+  Script: {instanceID: 0}
+- Class: 65
+  Script: {instanceID: 0}
+SerializeReferenceClassIdentifiers: []
+Assets:
+- Assets/FallingBodies/AssetBundle/Prefabs/Cube.prefab
+Dependencies: []
