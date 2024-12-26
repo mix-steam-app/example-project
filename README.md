@@ -19,7 +19,7 @@ Mix enables you to blend game assets (mods) into modpacks for use in the Unity E
 
 ### Upcoming Features (Ordered by Priority)
 - **Mod Dependencies**: A system to manage mod dependencies and ensure they load in the correct order, minimizing conflicts and improving compatibility. This should allow large modpacks to be created and shared, with the ability to automatically download and install dependencies from the Steam Workshop.
-- **Mod Microtransactions**: A platform where creators can sell modifications, enabling them to earn money from their creations, foster the development of premium content, and receive financial support.
+- **Mod Microtransactions**: A platform where creators can sell modifications, enabling them to earn money from their creations, foster the development of premium content, and receive financial support. This will be done with Steam Workshop microtransactions.
 
 ### Join the Community
 Mix is just beginning, and we’re excited for you to be part of this journey. Jump into the early access version today, share your creations, and help us build the future of modular gaming. The community will shape how Mix grows, and your feedback will help make it even better.
