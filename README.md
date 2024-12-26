@@ -6,7 +6,7 @@ Combine game assets into modpacks to play in the Unity Engine. Download and shar
 
 _"Imagine the power to mix together thousands of mods to craft your ultimate gaming experience."_
 
-Mix allows you to combine game assets (mods) into modpacks to play in the Unity Engine, though currently, mods must be entirely self-contained as there's no dependency system yet. Download and share mods on the Steam Workshop. Create your mods in the Unity Editor. You are allowed to monetize your mods with no fees from Mix. Join Mix as we pioneer the future of modular gaming!
+Mix enables you to blend game assets (mods) into modpacks for use in the Unity Engine. Currently, mods need to be self-contained since there isn't a dependency system in place. You can download and share mods via the Steam Workshop, and create your mods using the Unity Editor. There are no fees from Mix if you choose to monetize your mods. Join Mix to be at the forefront of modular gaming's future!
 
 ### Features
 - **Mod Manager**: Supports downloading, publishing, updating mods, and creating modpacks.
@@ -19,7 +19,7 @@ Mix allows you to combine game assets (mods) into modpacks to play in the Unity 
 
 ### Upcoming Features (Ordered by Priority)
 - **Mod Dependencies**: A system to manage mod dependencies and ensure they load in the correct order, minimizing conflicts and improving compatibility. This should allow large modpacks to be created and shared, with the ability to automatically download and install dependencies from the Steam Workshop.
-- **Mod Microtransactions**: A system for creators to sell mods and modpacks. This feature will provide a way for creators to monetize their work and encourage the creation of high-quality content.
+- **Mod Microtransactions**: A platform where creators can sell modifications, enabling them to earn money from their creations, foster the development of premium content, and receive financial support.
 
 ### Join the Community
 Mix is just beginning, and we’re excited for you to be part of this journey. Jump into the early access version today, share your creations, and help us build the future of modular gaming. The community will shape how Mix grows, and your feedback will help make it even better.
