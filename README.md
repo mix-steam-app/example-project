@@ -6,7 +6,7 @@ Combine game assets into modpacks to play in the Unity Engine. Download and shar
 
 _"Imagine the power to mix together thousands of mods to craft your ultimate gaming experience."_
 
-Mix allows you to combine game assets (mods) into modpacks to play in the Unity Engine, though currently, mods must be entirely self-contained as there's no dependency system yet. Download and share mods on the Steam Workshop. Create your mods in the Unity Editor. You are allowed to monetize your mods with no fees from Mix.
+Mix allows you to combine game assets (mods) into modpacks to play in the Unity Engine, though currently, mods must be entirely self-contained as there's no dependency system yet. Download and share mods on the Steam Workshop. Create your mods in the Unity Editor. You are allowed to monetize your mods with no fees from Mix. Join Mix as we pioneer the future of modular gaming!
 
 ### Features
 - **Mod Manager**: Supports downloading, publishing, updating mods, and creating modpacks.
