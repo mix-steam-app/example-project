@@ -34,22 +34,22 @@ Mix enables you to blend modules containing game assets into modpacks to make cu
 1. See the `Assets/ThirdPersonPlayground` folder to see the reference module.
 1. Clone this repository and open it in Unity.
 1. Re-import Unity's Starter Assets: ThirdPersonController from the Asset Store.
-1. Create a folder for your module in the `Assets` folder. For example, `Assets/ThirdPersonPlayground`.
+1. Create a folder for your module in the `Assets` folder. For example, `Assets/MyPlayground`.
 1. Create a file called `metadata.json` in that folder. This file should contain the following:
    ```json
    {
-	 "title": "ThirdPersonPlayground",
+	 "title": "MyPlayground",
 	 "description": "A module that loads Unity's ThirdPersonController Playground scene.",
 	 "dependencies": []
    }
    ```
 	1. `dependencies` is an array of the ID of the modules that this module depends on. For example, if your module depends on another module called `HarmonyMod`, you would write `"dependencies": ["HarmonyMod"]`. If depending on a Workshop module, use the Workshop ID. If depending on a local module, use the module's folder name.
-1. Create a C# script in the folder that extends `Mix.Mod`. For example, `ThirdPersonPlaygroundMod.cs`:
+1. Create a C# script in the folder that extends `Mix.Mod`. For example, `Mod.cs`:
    ```csharp
 	using UnityEngine;
 	using UnityEngine.SceneManagement;
 
-	namespace ThirdPersonPlayground
+	namespace MyPlayground
 	{
 		public class Mod : Mix.Mod
 		{
@@ -62,10 +62,10 @@ Mix enables you to blend modules containing game assets into modpacks to make cu
 	}
    ```
 	1. `OnLoad` is called when the module is loaded. In this example, it loads the first scene in the module's asset bundle. `OnLoad` is called after this module's dependencies' `OnLoad` methods are called.
-	1. `this.sceneAssetBundle` is a loaded AssetBundle containing the module's scenes at `Assets/ThirdPersonPlayground/Scenes`.
-	1. `this.assetBundle` is a loaded AssetBundle containing the module's non-scene assets at `Assets/ThirdPersonPlayground/Assets`.
-1. Create an Assembly Definition file in the folder. For example, `ThirdPersonPlayground.asmdef`
-	1. Unity will generate a `.dll` file for this module at `Library/ScriptAssemblies/ThirdPersonPlayground.dll`. This file is required for the module to be loaded by Mix.
+	1. `this.sceneAssetBundle` is a loaded AssetBundle containing the module's scenes at `Assets/MyPlayground/Scenes`.
+	1. `this.assetBundle` is a loaded AssetBundle containing the module's non-scene assets at `Assets/MyPlayground/Assets`.
+1. Create an Assembly Definition file in the folder. For example, `MyPlayground.asmdef`
+	1. Unity will generate a `.dll` file for this module at `Library/ScriptAssemblies/MyPlayground.dll`. This file is required for the module to be loaded by Mix.
 1. Copy the `Playground` scene from the ThirdPersonController asset to the module's `Scenes` folder. (`Assets/Starters/ThirdPersonController/Scenes/Playground.unity`).
 	1. This is for convenience with Mix's module exporter.
 1. Create a Assembly Definition for at `StarterAssets/StarterAssets.asmdef` since it contains logic that is used the `Playground` scene.
@@ -75,13 +75,13 @@ Mix enables you to blend modules containing game assets into modpacks to make cu
 	[MenuItem("Mix/BuildMods")]
 	public static void BuildModules()
 	{
-		ExportMod("Assets/ThirdPersonPlayground");
+		ExportMod("Assets/MyPlayground");
 	}
    ```
 1. On the toolbar, click `Mix` -> `BuildMods` to export the module to a `Build/Mix/items` folder.
-1. Copy `Library/ScriptAssemblies/StarterAssets.dll` to the `Build/Mix/items/ThirdPersonPlayground/Assemblies` folder.
-1. Copy `Library/ScriptAssemblies/Cinemachine.dll` to the `Build/Mix/items/ThirdPersonPlayground/Assemblies` folder.
-1. Copy `Build/Mix/items/ThirdPersonPlayground` to the `AppData/LocalLow/Mix Team/Mix/items` folder so Mix can detect the module.
+1. Copy `Library/ScriptAssemblies/StarterAssets.dll` to the `Build/Mix/items/MyPlayground/Assemblies` folder.
+1. Copy `Library/ScriptAssemblies/Cinemachine.dll` to the `Build/Mix/items/MyPlayground/Assemblies` folder.
+1. Copy `Build/Mix/items/MyPlayground` to the `AppData/LocalLow/Mix Team/Mix/items` folder so Mix can detect the module.
 1. In the Mix Launcher, click the module's gear button and publish to the Workshop!
 
 ## Testing Your Modpack in the Unity Editor
