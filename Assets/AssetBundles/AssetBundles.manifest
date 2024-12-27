@@ -1,0 +1,13 @@
+ManifestFileVersion: 0
+UnityVersion: 6000.0.23f1
+CRC: 4034430645
+HashAppended: 0
+AssetBundleManifest:
+  AssetBundleInfos:
+    Info_0:
+      Name: playground
+      Dependencies:
+        Dependency_0: fallingbodies
+    Info_1:
+      Name: fallingbodies
+      Dependencies: {}

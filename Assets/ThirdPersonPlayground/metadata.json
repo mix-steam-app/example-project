@@ -1,0 +1,7 @@
+{
+	"type": "mod",
+	"title": "ThirdPersonPlayground",
+	"dependencies": [
+		"HarmonyMod"
+	]
+}

@@ -1,0 +1,16 @@
+{
+    "name": "ThirdPersonPlayground",
+    "rootNamespace": "",
+    "references": [
+        "GUID:ec7017c5597e77f42b6de159d3055b8b"
+    ],
+    "includePlatforms": [],
+    "excludePlatforms": [],
+    "allowUnsafeCode": false,
+    "overrideReferences": false,
+    "precompiledReferences": [],
+    "autoReferenced": true,
+    "defineConstraints": [],
+    "versionDefines": [],
+    "noEngineReferences": false
+}
