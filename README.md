@@ -33,7 +33,7 @@ Mix enables you to blend modules containing game assets into modpacks to make cu
 ## HOW-TO: Create and publish a module that loads Unity's ThirdPersonController Playground scene
 1. See the `Assets/ThirdPersonPlayground` folder to see the reference module.
 1. Clone this repository and open it in Unity.
-1. Import Unity's Starter Assets: ThirdPersonController from the Asset Store.
+1. Re-import Unity's Starter Assets: ThirdPersonController from the Asset Store.
 1. Create a folder for your module in the `Assets` folder. For example, `Assets/ThirdPersonPlayground`.
 1. Create a file called `metadata.json` in that folder. This file should contain the following:
    ```json
@@ -80,6 +80,7 @@ Mix enables you to blend modules containing game assets into modpacks to make cu
    ```
 1. On the toolbar, click `Mix` -> `BuildMods` to export the module to a `Build/Mix/items` folder.
 1. Copy `Library/ScriptAssemblies/StarterAssets.dll` to the `Build/Mix/items/ThirdPersonPlayground/Assemblies` folder.
+1. Copy `Library/ScriptAssemblies/Cinemachine.dll` to the `Build/Mix/items/ThirdPersonPlayground/Assemblies` folder.
 1. Copy `Build/Mix/items/ThirdPersonPlayground` to the `AppData/LocalLow/Mix Team/Mix/items` folder so Mix can detect the module.
 1. In the Mix Launcher, click the module's gear button and publish to the Workshop!
 
