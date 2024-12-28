@@ -1,12 +1,23 @@
-Why Early Access?
-Mix is an early access platform aimed at enabling creators to experiment and build unique gameplay experiences. By releasing in Early Access, we want to gather community feedback, test the modding tools, and refine the platform based on user input. We believe in involving the community early on so we can improve and evolve Mix together, ensuring it meets the needs of creators and players alike.
-Approximately how long will this game be in Early Access?
-We anticipate Mix being in Early Access for approximately 12 to 18 months. During this time, we will continue to develop the platform, add new features, and refine existing tools based on community feedback. We’ll be working closely with players and creators to evolve Mix into a fully-featured modding platform.
-How is the full version planned to differ from the Early Access version?
-The full version of Mix is planned to expand significantly from the Early Access version by enabling users to combine thousands of modules into a single, cohesive experience. This will unlock greater creative potential, allowing creators to build complex, interconnected systems and richer gameplay environments by integrating vast amounts of user-generated content seamlessly.
-What is the current state of the Early Access version?
-Currently, Mix serves as an early-stage mod manager with basic integration for testing and combining modules within a blank Unity scene. It includes a few example modules, like the Unity Third Person Playground scene, to showcase how modules can interact. The platform is still in its early stages, and while it’s playable, it’s not yet a fully fleshed-out experience. There may be bugs, missing features, and limited modding capabilities at this point.
-Will the game be priced differently during and after Early Access?
-Yes. While we do not plan for significant price increases, minor adjustments may occur over time to account for inflation and the continued development of the platform. Our priority is to keep Mix affordable, fostering a growing community and maximizing the audience reach for creators. The price of Mix will remain accessible during and after Early Access to ensure a wide and diverse user base for both players and creators.
-How are you planning on involving the Community in your development process?
-We are committed to engaging with the Mix community throughout its development. Players can provide feedback directly through the Steam Community forums and participate in discussions about future features. Community suggestions will play a key role in shaping the direction of the platform, ensuring Mix meets the needs of its users as it evolves.
+### Why Early Access?
+
+Mix is launching in Early Access to give creators the chance to experiment and build unique gameplay experiences. By releasing in Early Access, we want to gather valuable community feedback, refine modding tools, and test the platform’s capabilities. This phase allows us to evolve Mix alongside its users, ensuring that it meets the needs of both creators and players.
+
+### How long will Mix be in Early Access?
+
+We expect Mix to be in Early Access for about 12 to 18 months. During this time, we’ll continue to develop and enhance the platform, adding new features and refining existing tools based on community feedback. Our focus will be on making Mix a fully-featured, powerful modding platform that empowers creators and provides great experiences for players.
+
+### What will the full version be like compared to Early Access?
+
+The full version of Mix will be significantly expanded, allowing users to combine thousands of modules into one cohesive experience. This will open up greater creative possibilities, enabling creators to develop complex systems and richer gameplay environments by seamlessly integrating a wide variety of user-generated content. 
+
+### What is the current state of the Early Access version?
+
+Right now, Mix is in an early stage as a mod manager that allows for basic testing and combining of modules within a Unity scene. It includes a few example modules, such as the Unity Third Person Playground, to demonstrate how modules interact. The platform is playable, but it’s still evolving, so there may be bugs, missing features, and limited modding capabilities at this stage.
+
+### Will the price change during or after Early Access?
+
+There may be minor adjustments to the price over time to account for inflation and the ongoing development of the platform, but Mix will remain affordable throughout Early Access and beyond. We aim to ensure that the platform is accessible to as many creators and players as possible, growing the community and expanding the reach of Mix’s tools.
+
+### How will the community be involved in the development process?
+
+Community involvement is key to the development of Mix. We encourage players and creators to share feedback through the Steam Community forums and participate in discussions about future features. User input will be central in shaping the direction of the platform, allowing us to continuously improve and tailor Mix to meet the needs of its community.
