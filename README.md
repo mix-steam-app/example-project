@@ -1,8 +1,8 @@
 ![Mix Logo](docs/logo.png)
 
-# Mix
-
 Mix enables combining creator content for custom Unity games. Few modules exist now, offering creators a chance to contribute. Use modpacks for new features, collaborate via Steam Workshop, and monetize with no Mix fees. Join to pioneer modular gaming.
+
+# Mix
 
 Mix's mission is to let you combine content from thousands of creators to craft your ultimate gaming experience. At the moment, there are very few, if any, content modules available. If you're a creator, you have a unique opportunity to be among the first to contribute to the Mix Workshop.
 
