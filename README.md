@@ -4,9 +4,9 @@ Mix enables combining creator content for custom Unity games. Few modules exist 
 
 # Mix
 
-Mix's mission is to let you combine content from thousands of creators to craft your ultimate gaming experience. At the moment, there are very few, if any, content modules available. If you're a creator, you have a unique opportunity to be among the first to contribute to the Mix Workshop.
+Mix strives to empower you to craft your ultimate gaming experience by combining content from thousands of creators. With the platform still growing and few modules available, creators have a unique opportunity to be among the first in the Mix Workshop.
 
-Combine modular content (modules) into modpacks to make custom experiences in the Unity Engine. Modules are loaded from assemblies. This allows for a wide variety of new features like new game modes, MMO capabilities, advanced physics, high-fidelity graphics, and massive worlds. With the Steam Workshop and module dependencies, you can collaborate with other creators by sharing modules that build upon each other. Create modules entirely in the Unity Editor. You can independently monetize your work, or use Mix's upcoming microtransactions system.
+Combine modules into modpacks to create custom experiences in Unity. Load modules from assemblies to add new features like game modes, MMO capabilities, advanced physics, graphics, and large worlds. Collaborate with other creators via Steam Workshop and module dependencies. Build modules in Unity and monetize your work independently or through Mix's upcoming microtransactions system.
 
 Join now and start creating your own modules, so you can later sell them using the upcoming Module Microtransactions feature. Let's pioneer the future of modular gaming and community-sourced game development!
 
