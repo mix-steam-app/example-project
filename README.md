@@ -27,14 +27,14 @@ The ability to mod existing modules opens up endless creative possibilities. By 
 ## Upcoming Features
 - **Module Microtransactions**: A platform where creators can sell modules, enabling them to earn money from their creations, foster the development of premium content, and receive financial support. This will be done with Steam Inventory Service Items dynamically linked to Steam Workshop Items. Your customers will have a streamlined shopping experience with automatic dependency purchasing and installation. Mix will charge a 4% server fee, which may decrease as we optimize this system.
 
-## New Features (2.0.0)
+## New Features (Dec 27)
 - **Module Dependencies**: A system to manage module dependencies and ensure they load in the correct order, minimizing conflicts and allowing creators to build upon each other's work.
 - **Automatic Dependency Installation**: Automatically install missing dependencies when playing a modpack.
 - **Module Exporter/Builder**: A Unity script is provided to help prepare modules for sharing. This script exports the module's assets and metadata to a folder, which can then be uploaded to the Steam Workshop.
 - **Example Modules**: Three example modules ("HarmonyMod", "ThirdPersonPlayground", and "FallingCubes") are included to demonstrate how modules can be created and used. These modules can be downloaded from the Steam Workshop.
 - **Snackbar Notifications**: Improved user feedback when using the mod manager with snackbar notifications.
 
-## Features
+## Features (Dec 21)
 - **Module Manager**: Supports downloading, publishing, updating modules, and creating modpacks.
 - **Module Loader**: A system for loading modules within the game. Mix loads the assemblies of modules and instantiates a subclass of `Mix.Mod` defined in each mod's assembly.
 - **Create in the Unity Editor**: Creators can build modules entirely in Unity (version 6000.0.23f1), leveraging the engine's powerful tools and workflows.
