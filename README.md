@@ -25,7 +25,7 @@ Create modules that can be used in multiple games or modpacks, increasing your c
 The ability to mod existing modules opens up endless creative possibilities. By building upon or remixing existing content, creators can introduce new features, refine mechanics, or adapt modules to entirely different contexts. This iterative approach encourages collaboration, sparks inspiration, and significantly lowers the barrier to generating innovative, high-quality content.  
 
 ## Upcoming Features
-- **Module Microtransactions**: A platform where creators can sell modules, enabling them to earn money from their creations, foster the development of premium content, and receive financial support. This will be done with Steam Workshop microtransactions.
+- **Module Microtransactions**: A platform where creators can sell modules, enabling them to earn money from their creations, foster the development of premium content, and receive financial support. This will be done with Steam Inventory Service Items dynamically linked to Steam Workshop Items. Your customers will have a streamlined shopping experience with automatic dependency purchasing and installation. Mix will charge a 4% server fee, which may decrease as we optimize this system.
 
 ## New Features (2.0.0)
 - **Module Dependencies**: A system to manage module dependencies and ensure they load in the correct order, minimizing conflicts and allowing creators to build upon each other's work.
