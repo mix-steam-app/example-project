@@ -1,6 +1,6 @@
 ![Mix Logo](docs/logo.png)
 
-Mix enables combining creator content for custom Unity games. Few modules exist now, offering creators a chance to contribute. Use modpacks for new features, collaborate via Steam Workshop, and monetize with no Mix fees. Join to pioneer modular gaming.
+Mix lets creators build custom gaming experiences by combining game modules. Share and collaborate via the Steam Workshop, and monetize your work with an upcoming microtransactions system. Join now to shape the future of modular gaming!
 
 # Mix
 
