@@ -11,18 +11,27 @@ Combine modules into modpacks to create custom experiences in Unity. Load module
 Join now and start creating your own modules, so you can later sell them using the upcoming Module Microtransactions feature. Let's pioneer the future of modular gaming and community-sourced game development!
 
 ## Why Create Modules for Mix?
-### Early Market Entry  
-Being one of the first creators on the platform gives you a chance to establish your name and potentially become a leading figure in this new ecosystem.  
-### Monetization Opportunities  
-Directly monetize your modules or benefit from Mix's future microtransactions system, providing a new revenue stream for your creations.  
-### Low Overhead 
-Unlike developing a full game from scratch, creating modules can be less resource-intensive, allowing creators with limited resources to participate.  
-### Increased Product Lifespan  
-Extend the longevity of your creations by designing modules that remain relevant across multiple projects and communities. As more users incorporate your content into their's, the value of your work grows over time. 
-### Flexibility 
-Create modules that can be used in multiple games or modpacks, increasing your content's reach, utility, and reusability. 
-### More Product Ideas  
-The ability to mod existing modules opens up endless creative possibilities. By building upon or remixing existing content, creators can introduce new features, refine mechanics, or adapt modules to entirely different contexts. This iterative approach encourages collaboration, sparks inspiration, and significantly lowers the barrier to generating innovative, high-quality content.  
+
+**- Monetization Opportunities**  
+Directly monetize your modules or benefit from Mix's future microtransactions system, providing a new revenue stream for your creations.
+
+**- Low Overhead**  
+Unlike developing a full game from scratch, creating modules can be less resource-intensive, allowing creators with limited resources to participate.
+
+**- Utilize the Unity Editor**  
+Harness the Unity Editor’s powerful features to efficiently create, test, and refine your modules.
+
+**- Increased Product Lifespan**  
+Create versatile modules that stay valuable across projects and communities. As others use your work in modpacks or as dependencies, your content remains relevant, enhancing your reputation and generating ongoing monetization opportunities.
+
+**- Flexibility**  
+Create modules that can be used in multiple games or modpacks, increasing your content's reach, utility, and reusability.
+
+**- Expanding on Existing Ideas**  
+The ability to mod existing modules opens up endless creative possibilities. By building upon or remixing existing content, creators can introduce new features, refine mechanics, or adapt modules to entirely different contexts.
+
+**- Early Market Entry**  
+Being one of the first creators on the platform gives you a chance to establish your name and potentially become a leading figure in this new ecosystem.
 
 ## Upcoming Features
 
