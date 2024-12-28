@@ -60,7 +60,7 @@ The ability to mod existing modules opens up endless creative possibilities. By 
    }
    ```
 	1. `dependencies` is an array of the ID of the modules that this module depends on. For example, if your module depends on another module called `HarmonyMod`, you would write `"dependencies": ["HarmonyMod"]`. If depending on a Workshop module, use the Workshop ID. If depending on a local module, use the module's folder name.
-1. Create a C# script in the folder that extends `Mix.Mod`. For example, `Mod.cs`:
+1. Create a C# script in the `Scripts` folder that extends `Mix.Mod`. For example, `Mod.cs`:
    ```csharp
 	using UnityEngine;
 	using UnityEngine.SceneManagement;
@@ -80,7 +80,7 @@ The ability to mod existing modules opens up endless creative possibilities. By 
 	1. `OnLoad` is called when the module is loaded. In this example, it loads the first scene in the module's asset bundle. `OnLoad` is called after this module's dependencies' `OnLoad` methods are called.
 	1. `this.sceneAssetBundle` is a loaded AssetBundle containing the module's scenes at `Assets/MyPlayground/Scenes`.
 	1. `this.assetBundle` is a loaded AssetBundle containing the module's non-scene assets at `Assets/MyPlayground/Assets`.
-1. Create an Assembly Definition file in the folder. For example, `MyPlayground.asmdef`
+1. Create an Assembly Definition file in the folder's `Scripts` folder. For example, `Scripts/MyPlayground.asmdef`:
 	1. Unity will generate a `.dll` file for this module at `Library/ScriptAssemblies/MyPlayground.dll`. This file is required for the module to be loaded by Mix.
 1. Copy the `Playground` scene from the ThirdPersonController asset to the module's `Scenes` folder. (`Assets/Starters/ThirdPersonController/Scenes/Playground.unity`).
 	1. This is for convenience with Mix's module exporter.
