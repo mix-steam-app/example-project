@@ -25,23 +25,26 @@ Create modules that can be used in multiple games or modpacks, increasing your c
 The ability to mod existing modules opens up endless creative possibilities. By building upon or remixing existing content, creators can introduce new features, refine mechanics, or adapt modules to entirely different contexts. This iterative approach encourages collaboration, sparks inspiration, and significantly lowers the barrier to generating innovative, high-quality content.  
 
 ## Upcoming Features
-- **Module Microtransactions**: A platform where creators can sell modules, enabling them to earn money from their creations, foster the development of premium content, and receive financial support. This will be done with Steam Inventory Service Items dynamically linked to Steam Workshop Items. Your customers will have a streamlined shopping experience with automatic dependency purchasing and installation. Mix will charge a 4% server fee, which may decrease as we optimize this system.
+
+- **Sell modules** through Module Microtransactions, allowing creators to earn money, foster premium content, and gain financial support. Utilize Steam Inventory Service Items dynamically linked to Steam Workshop Items for a streamlined shopping experience, including automatic dependency purchasing and installation. Mix charges a 4% server fee, which may decrease as the system optimizes.
 
 ## New Features (Dec 27)
-- **Module Dependencies**: A system to manage module dependencies and ensure they load in the correct order, minimizing conflicts and allowing creators to build upon each other's work.
-- **Automatic Dependency Installation**: Automatically install missing dependencies when playing a modpack.
-- **Module Exporter/Builder**: A Unity script is provided to help prepare modules for sharing. This script exports the module's assets and metadata to a folder, which can then be uploaded to the Steam Workshop.
-- **Example Modules**: Three example modules ("HarmonyMod", "ThirdPersonPlayground", and "FallingCubes") are included to demonstrate how modules can be created and used. These modules can be downloaded from the Steam Workshop.
-- **Snackbar Notifications**: Improved user feedback when using the mod manager with snackbar notifications.
+
+- **Manage module dependencies** and ensure they load in the correct order to minimize conflicts and enable creators to build on each other's work.
+- **Install missing dependencies** automatically when playing a modpack.
+- **Prepare modules** for sharing with the Module Exporter/Builder script. Export assets and metadata to a folder for upload to the Steam Workshop.
+- **Download example modules** ("HarmonyMod", "ThirdPersonPlayground", and "FallingCubes") to learn how modules can be created and used.
+- **Receive feedback** through snackbar notifications for improved user interaction with the mod manager.
 
 ## Features (Dec 21)
-- **Module Manager**: Supports downloading, publishing, updating modules, and creating modpacks.
-- **Module Loader**: A system for loading modules within the game. Mix loads the assemblies of modules and instantiates a subclass of `Mix.Mod` defined in each mod's assembly.
-- **Create in the Unity Editor**: Creators can build modules entirely in Unity (version 6000.0.23f1), leveraging the engine's powerful tools and workflows.
-- **Module Monetization**: Monetize your modules with no fees from Mix, though Module Microtransactions are in development.
-- **Steam Workshop Integration**: Use the Steam Workshop to browse, download, and share modules.
-- **Asset Sharing**: Creators are recommended to allow others to use and reference their assets in modules, but redistribution is not permitted. This means players must own the dependency module to use dependent modules that reference it, so the creators of the dependency benefit from the dependent's popularity. This optional policy supports Mix’s vision of fostering a vast and ever-growing library of content by promoting the free flow of ideas and resources, encouraging collaboration and accelerating development. 
-- **Documentation**: Material on GitHub to help users get started.
+
+- **Download, publish, update modules, and create modpacks** with the Module Manager.
+- **Load modules** within the game through the Module Loader, instantiating a subclass of `Mix.Mod` defined in each mod's assembly.
+- **Create modules** in Unity (version 6000.0.23f1) using powerful tools and workflows.
+- **Monetize modules** independently with no fees from Mix.
+- **Browse, download, and share modules** through Steam Workshop integration.
+- **Encourage asset sharing** while retaining control over redistribution, benefiting creators whose assets are referenced by other modules.
+- **Access documentation** on GitHub to get started with module creation.
 
 ## Pre-requisites
 1. Install Unity version 6000.0.23f1 from [Unity Editor Archive](https://unity.com/releases/editor/archive).
