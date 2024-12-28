@@ -2,11 +2,13 @@
 
 # Mix
 
-Blend modules into modpacks to create custom experiences. Create complex modpacks with module dependencies. Create your modules in the Unity Editor, and share them on the Steam Workshop. Monetize your modules with no fees from Mix.
+Mix enables combining creator content for custom Unity games. Few modules exist now, offering creators a chance to contribute. Use modpacks for new features, collaborate via Steam Workshop, and monetize with no Mix fees. Join to pioneer modular gaming.
 
-_"Imagine the power to mix together content from thousands of creators to craft your ultimate gaming experience."_
+Mix's mission is to let you combine content from thousands of creators to craft your ultimate gaming experience. At the moment, there are very few, if any, content modules available. If you're a creator, you have a unique opportunity to be among the first to contribute to the Mix Workshop.
 
-Mix enables you to blend modules containing game assets into modpacks to make custom experiences in the Unity Engine. Modules are loaded from assemblies with dependency management, and thus could potentially add a large variety of new features such as new game modes, multiplayer, cutting-edge graphics, massive worlds, and more. With the Steam Workshop and Mix's dependency management, you can work with other creators by sharing assets and mods to create a vast library of interconnected modules. You can create modules in the Unity Editor, which allows you to leverage the engine's powerful tools and workflows, and gives you the flexibility to reuse your modules outside of Mix. There are no fees from Mix if you choose to monetize your modules. Join Mix to push the boundaries of modular gaming and community-sourced game development!
+Combine modular content (modules) into modpacks to make custom experiences in the Unity Engine. Modules are loaded from assemblies. This allows for a wide variety of new features like new game modes, MMO capabilities, advanced physics, high-fidelity graphics, and massive worlds. With the Steam Workshop and module dependencies, you can collaborate with other creators by sharing modules that build upon each other. Create modules entirely in the Unity Editor, and feel free to monetize your work with no fees from Mix. 
+
+Join now and start creating your own modules, so you can later sell them using the upcoming Module Microtransactions feature. Let's pioneer the future of modular gaming and community-sourced game development!
 
 ### Upcoming Features
 - **Module Microtransactions**: A platform where creators can sell modules, enabling them to earn money from their creations, foster the development of premium content, and receive financial support. This will be done with Steam Workshop microtransactions.
