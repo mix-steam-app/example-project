@@ -8,7 +8,10 @@ _"Imagine the power to mix together content from thousands of creators to craft 
 
 Mix enables you to blend modules containing game assets into modpacks to make custom experiences in the Unity Engine. Modules are loaded from assemblies with dependency management, and thus could potentially add a large variety of new features such as new game modes, multiplayer, cutting-edge graphics, massive worlds, and more. With the Steam Workshop and Mix's dependency management, you can work with other creators by sharing assets and mods to create a vast library of interconnected modules. You can create modules in the Unity Editor, which allows you to leverage the engine's powerful tools and workflows, and gives you the flexibility to reuse your modules outside of Mix. There are no fees from Mix if you choose to monetize your modules. Join Mix to push the boundaries of modular gaming and community-sourced game development!
 
-### New Features
+### Upcoming Features
+- **Module Microtransactions**: A platform where creators can sell modules, enabling them to earn money from their creations, foster the development of premium content, and receive financial support. This will be done with Steam Workshop microtransactions.
+
+### New Features (2.0.0)
 - **Module Dependencies**: A system to manage module dependencies and ensure they load in the correct order, minimizing conflicts and allowing creators to build upon each other's work.
 - **Automatic Dependency Installation**: Automatically install missing dependencies when playing a modpack.
 - **Module Exporter/Builder**: A Unity script is provided to help prepare modules for sharing. This script exports the module's assets and metadata to a folder, which can then be uploaded to the Steam Workshop.
@@ -23,9 +26,6 @@ Mix enables you to blend modules containing game assets into modpacks to make cu
 - **Steam Workshop Integration**: Use the Steam Workshop to browse, download, and share modules.
 - **Asset Sharing**: Creators are recommended to allow others to use and reference their assets in modules, but redistribution is not permitted. This means players must own the dependency module to use dependent modules that reference it, so the creators of the dependency benefit from the dependent's popularity. This optional policy supports Mix’s vision of fostering a vast and ever-growing library of content by promoting the free flow of ideas and resources, encouraging collaboration and accelerating development. 
 - **Documentation**: Material on GitHub to help users get started.
-
-### Upcoming Features (Ordered by Priority)
-- **Module Microtransactions**: A platform where creators can sell modules, enabling them to earn money from their creations, foster the development of premium content, and receive financial support. This will be done with Steam Workshop microtransactions.
 
 ## Pre-requisites
 1. Install Unity version 6000.0.23f1 from [Unity Editor Archive](https://unity.com/releases/editor/archive).
