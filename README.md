@@ -21,11 +21,11 @@ Creating modules is less resource-intensive than developing full games, allowing
 **Leverage the Unity Editor**  
 Take advantage of Unity Editor’s powerful tools to efficiently create, test, and refine your modules, speeding up development and ensuring quality.
 
-**Expand on Existing Ideas**  
+**Expand on Existing Ideas** 
 Modify and build upon existing modules, introducing new features, refining mechanics, or adapting them to new contexts, unlocking endless creative possibilities.
 
-**Increased Product Lifespan**  
-Create versatile modules that stay valuable across projects and communities. As others use your work in modpacks or as dependencies, your content remains relevant, enhancing your reputation and generating ongoing monetization opportunities.
+**Increased Product Lifespan through Dependency Modules**  
+Design dependency modules that maintain value across projects. With Mix's "Own to Use" model, players must own dependencies to access dependent mods, creating ongoing monetization. As your modules are integrated into more projects, they boost your reputation and provide lasting value.
 
 **Flexibility**  
 Create modules that can be used across various games or modpacks, expanding your reach, increasing utility, and offering reusability.
