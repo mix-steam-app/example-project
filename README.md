@@ -1,10 +1,10 @@
 ![Mix Logo](docs/logo.png)
 
-Mix lets creators build custom gaming experiences by combining game modules. Share and collaborate via the Steam Workshop, and monetize your work with an upcoming microtransactions system. Join now to shape the future of modular gaming!
+Build custom experiences by combining content modules. Share and collaborate via the Steam Workshop, and monetize your work with an upcoming microtransactions system. Join now to shape the future of modular gaming!
 
 # Mix
 
-Mix strives to empower you to craft your ultimate gaming experience by combining content from thousands of creators. With the platform still growing and few modules available, creators have a unique opportunity to be among the first in the Mix Workshop.
+Mix strives to empower you to craft your ultimate gaming experience by combining content from thousands of creators and universes. With the platform still growing and few modules available, creators have a unique opportunity to be among the first in the Mix Steam Workshop.
 
 Combine modules into modpacks to create custom experiences in Unity. Load modules from assemblies to add features ranging from small additions like new items or animations to larger ones like multiplayer support, open-world maps, or advanced physics. Collaborate with other creators via Steam Workshop and module dependencies. Build modules in Unity and monetize your work independently or through Mix's upcoming microtransactions system.
 
@@ -12,30 +12,30 @@ Join now to start creating your own modules and get ready to sell them through t
 
 ## Why Create Modules for Mix?
 
-**- Monetization Opportunities**  
-Directly monetize your modules or benefit from Mix's future microtransactions system, providing a new revenue stream for your creations.
+**Monetize With Low Fees**  
+Monetize your modules or use Mix’s upcoming microtransactions system, powered by Steam. With Steam's 30% fee and Mix’s 5% platform fee, you keep 65% of your earnings.
 
-**- Low Overhead**  
-Unlike developing a full game from scratch, creating modules can be less resource-intensive, allowing creators with limited resources to participate.
+**Low Overhead**  
+Creating modules is less resource-intensive than developing full games, allowing creators with limited resources to participate and start earning without a huge investment.
 
-**- Utilize the Unity Editor**  
-Harness the Unity Editor’s powerful features to efficiently create, test, and refine your modules.
+**Leverage the Unity Editor**  
+Take advantage of Unity Editor’s powerful tools to efficiently create, test, and refine your modules, speeding up development and ensuring quality.
 
-**- Increased Product Lifespan**  
+**Expand on Existing Ideas**  
+Modify and build upon existing modules, introducing new features, refining mechanics, or adapting them to new contexts, unlocking endless creative possibilities.
+
+**Increased Product Lifespan**  
 Create versatile modules that stay valuable across projects and communities. As others use your work in modpacks or as dependencies, your content remains relevant, enhancing your reputation and generating ongoing monetization opportunities.
 
-**- Flexibility**  
-Create modules that can be used in multiple games or modpacks, increasing your content's reach, utility, and reusability.
+**Flexibility**  
+Create modules that can be used across various games or modpacks, expanding your reach, increasing utility, and offering reusability.
 
-**- Expanding on Existing Ideas**  
-The ability to mod existing modules opens up endless creative possibilities. By building upon or remixing existing content, creators can introduce new features, refine mechanics, or adapt modules to entirely different contexts.
-
-**- Early Market Entry**  
-Being one of the first creators on the platform gives you a chance to establish your name and potentially become a leading figure in this new ecosystem.
+**Early Market Advantage**  
+By being an early creator on the platform, you have the opportunity to establish yourself and potentially become a leading figure in this growing ecosystem.
 
 ## Upcoming Features
 
-- **Sell modules** through Module Microtransactions, allowing creators to earn money, foster premium content, and gain financial support. Utilize Steam Inventory Service Items dynamically linked to Steam Workshop Items for a streamlined shopping experience, including automatic dependency purchasing and installation. Mix charges a 4% server fee, which may decrease as the system optimizes.
+- **Sell modules** through Module Microtransactions, allowing creators to earn money, foster premium content, and gain financial support. Utilize Steam Inventory Service Items dynamically linked to Steam Workshop Items for a streamlined shopping experience, including automatic dependency purchasing and installation.
 
 ## New Features (Dec 27)
 
