@@ -21,7 +21,7 @@ Creating modules is less resource-intensive than developing full games, allowing
 **Leverage the Unity Editor**  
 Take advantage of Unity Editor’s powerful tools to efficiently create, test, and refine your modules, speeding up development and ensuring quality.
 
-**Expand on Existing Ideas** 
+**Expand on Existing Ideas**  
 Modify and build upon existing modules, introducing new features, refining mechanics, or adapting them to new contexts, unlocking endless creative possibilities.
 
 **Increased Product Lifespan through Dependency Modules**  
