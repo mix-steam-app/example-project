@@ -2,18 +2,39 @@
 
 Build custom experiences by combining content modules. Share and collaborate via the Steam Workshop, and monetize your work with an upcoming microtransactions system. Join now to shape the future of modular gaming!
 
-# Mix
+# Attention, Creators and Gamers!
 
-Mix offers an exciting opportunity to create custom gaming experiences by combining content from various creators, genres, and gameplay styles. As the platform continues to grow, creators have a chance to be early contributors to the Mix Steam Workshop.
+Mix is kicking off with a bang, but let's keep it real – we're just at the starting line. Expect a lean launch with limited Workshop content, but don't let that hold you back. This platform is a playground for the creative minds out there, offering you a chance to dive in and shape the future of gaming!
 
-Combine modules into modpacks to create custom experiences in Unity. Load modules from assemblies, supporting features ranging from small additions like new items or animations to larger ones like multiplayer support, open-world maps, or advanced physics. Collaborate with other creators via Steam Workshop, module dependencies, and tools like Harmony to build on each other's work. Build modules in Unity and monetize your work independently or through Mix's upcoming microtransactions system.
+## Unleash Your Creativity
 
-Join now to start creating your own modules and get ready to sell them through the upcoming Module Microtransactions system. Let's pioneer the future of modular gaming and community-driven development!
+### **Mix and Match**
+Combine different creators' content, genres, and gameplay styles to craft unique gaming experiences. Whether it's a quirky indie puzzle or an epic battle royale, your imagination is the limit.
+
+### **Modular Magic**
+With Mix, you can stitch together modules into modpacks using Unity. From simple enhancements like new weapons or dance moves to grand features like multiplayer modes, expansive open worlds, or mind-bending physics – it’s all possible.
+
+### **Community Collaboration**
+Get involved with the Steam Workshop community. Share, collaborate, and expand on others' modules with tools like **Harmony**. The collective brainpower of creators is your superpower here.
+
+### **Monetize Your Genius**
+Start building your modules today in Unity, and prepare to profit. With Mix's upcoming microtransactions system, you can turn your passion into your paycheck.
+
+## Early Bird Gets the Worm
+
+Be among the first to contribute to Mix's Steam Workshop. Your creations could set the standard for what modular, community-driven gaming looks like. We're not just building games; we're pioneering a new era where every player can be a creator.
+
+## Get Involved Now!
+
+Join Mix now to start crafting your modules. Get ready to sell them through our soon-to-launch **Module Microtransactions** system. 
+
+Let’s redefine gaming together – where every piece you create adds to an ever-evolving, player-crafted universe!
+
 
 ## Why Create Modules for Mix?
 
 **Monetize With Low Fees**  
-Monetize your modules or use Mix’s upcoming microtransactions system, powered by Steam. With Steam's 30% fee and Mix’s 5% platform fee, you keep 65% of your earnings.
+Monetize your modules or use Mix’s upcoming microtransactions system, powered by Steam. With Steam's 30% fee and Mix’s 4% platform fee, you keep 66% of your earnings.
 
 **Low Development Overhead**  
 Creating modules is less resource-intensive than developing full games, allowing creators with limited resources to participate and start earning without a huge investment.
